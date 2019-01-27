@@ -17,10 +17,9 @@ From the sample below, user1 did not rate movie 2, so we use a rating of 0.
 A sample Itemusermat file with the item-user matrix is shown below.
 
 		user1	user2
-	
-movie1	  	 4	  3
+movie1	4	3
+movies2	0	2
 
-movies2	  	 0	  2
 
 
 Set the number of clusters (k) to 10
