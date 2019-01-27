@@ -19,9 +19,11 @@ A sample Itemusermat file with the item-user matrix is shown below.
 		user1	user2
 		
 movie1	
+
 4	3
 
 movies2	
+
 0	2
 
 
